@@ -3,6 +3,7 @@
   "introBody": "Nyomja meg az alábbi gombot a tájékoztató megtekintéséhez.",
   "introText": "Kérjük, töltse ki a most látható oldalt mielőtt tovább menne a résztvevői oldalra.",
   "introExpCode": "Kísérletvezető kódja:",
+  "introExpEmail": "Kísérletvezető email címe: ",,
   "introLabCode": "Labor kódja:",
   "warnTest": "Az alkalmazás teszt üzemmódban fut, az adatok tesztként fognak mentõdni!",
   "warnPilot": "Az alkalmazás pilot üzemmódban fut, az adatok pilotként fognak mentõdni!",
