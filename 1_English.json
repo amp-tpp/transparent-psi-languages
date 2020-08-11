@@ -25,6 +25,7 @@
   "sexChoices": ["Male", "Female"],
   "orientation": "Sexual orientation",
   "orientationChoices": ["Heterosexual", "Gay/Lesbian", "Bisexual – prefer same-sex erotic images", "Bisexual – prefer opposite-sex erotic images", "Prefer not to answer - discontinue experiment"],
+  "onlineOpening": "Welcome to the Transparent Psi Project! You have initiated Online mode. Please, copy the link below and send it to the participants so that they can complete the experiment. When they open the link it will bring them to the Participant’s Opening Screen. <br> Online experiment link:",
   "formContinue": "Press continue to indicate that you are ready to see the sample image",
   "afterForm": "Are you comfortable with continuing the experiment after knowing the types of images that may be displayed? The experiment may contain similar images. If you have doubts about whether or not you will be comfortable with completing the experiment you should refuse participation. By pressing the agree to continue button you will start the experiment. Please note that the experiment needs to be completed individually. Interaction with other participants is not allowed during the experiment.",
   "continueAfterTestImage": "Agree to continue",
