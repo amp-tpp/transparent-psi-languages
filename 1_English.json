@@ -84,5 +84,6 @@
   "agreeParticipateButton": "Yes, I have been adequately informed about the details of my participation, and I agree to participate",
   "refuseParticipateButton": "No, I refuse to participate",
   "refuse": "Thank you for considering participating in our study. Have a nice day!",
-  "quit": "Quit"
+  "quit": "Quit",
+  "onilineEnd": "If you have any questions or concerns please contact:"
 }
