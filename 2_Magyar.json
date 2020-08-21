@@ -79,5 +79,8 @@
   "agreeParticipateButton": "Igen",
   "refuseParticipateButton": "Nem",
   "refuse": "Köszönjük hogy megfontolta a kutatásban való részvételt. Legyen szép napja!",
-  "quit": "Kilépés"
+  "quit": "Kilépés",
+  "systematicControl": "Systematic Control: ",
+  "true" : "True: ",
+  "sham" : "Sham: "
  }

@@ -79,5 +79,8 @@
   "agreeParticipateButton": "Ja, ich bin über die Einzelheiten meiner Teilnahme ausreichend informiert worden und stimme der Teilnahme zu", 
   "refuseParticipateButton": "Nein, ich lehne die Teilnahme ab",
   "refuse": "Danke, dass Sie die Teilnahme an unserer Studie in Betracht gezogen haben. Einen schönen Tag noch!",
-  "quit": "Beenden"
+  "quit": "Beenden",
+  "systematicControl": "Systematic Control: ",
+  "true" : "True: ",
+  "sham" : "Sham: "
 }

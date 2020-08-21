@@ -79,5 +79,8 @@
   "agreeParticipateButton": "Oui, j'ai été adéquatement informé sur les détails concernant ma participation et j'accepte de participer",
   "refuseParticipateButton": "Non, je refuse de participer",
   "refuse": "Merci d'avoir envisagé de participer à cette étude. Passez une bonne journée!",
-  "quit": "Quitter"
+  "quit": "Quitter",
+  "systematicControl": "Systematic Control: ",
+  "true" : "True: ",
+  "sham" : "Sham: "
 }
