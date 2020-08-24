@@ -84,5 +84,6 @@
   "true" : "True: ",
   "sham" : "Sham: ",
   "introExpEmail": "Chef expérimental email",
-  "onilineEnd": "Si vous avez des questions ou des préoccupations, veuillez contacter:"
+  "onilineEnd": "Si vous avez des questions ou des préoccupations, veuillez contacter:",
+  "onlineOpening": "Welcome to the Transparent Psi Project! You have initiated Online mode. Please, copy the link below and send it to the participants so that they can complete the experiment. When they open the link it will bring them to the Participant’s Opening Screen. <br> Online experiment link:"
 }
