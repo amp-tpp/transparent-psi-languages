@@ -86,5 +86,6 @@
   "refuse": "Thank you for considering participating in our study. Have a nice day!",
   "quit": "Quit",
   "onilineEnd": "If you have any questions or concerns please contact:",
-  "rewardOnlineInfo": "Study identification code:"
+  "rewardOnlineInfo": "Study identification code:",
+  "rewardOnlineLink": "This is a link: <br> <a href='google.com'>link to google</a>"
 }
