@@ -18,7 +18,7 @@
   "consent4": "Diese Studie ist eine Wiederholung (Replikation) eines früheren Experiments, sodass wir in der Frage, welche Möglichkeiten wir Ihnen in Bezug auf Geschlecht und sexuelle Orientierung präsentieren können, eingeschränkt sind. Wir sind uns bewusst, dass Geschlechtsidentität und sexuelle Orientierung komplexe Phänomene sind und dass die Optionen, die Sie finden, Ihr Geschlecht oder Ihre sexuelle Orientierung möglicherweise nicht perfekt beschreiben. In diesem Fall wählen Sie bitte die Option der sexuellen Orientierung, die es Ihnen erlauben würde, eine Reihe von erotischen Bildern zu betrachten, die Ihnen am geeignetsten erscheinen."
   "age": "Zu welcher Altersgruppe gehören Sie?",
   "sex": "Geschlecht",
-  "requiredField": "Bitte wählen Sie zu jeder der folgenden Fragen jeweils eine Option aus",
+  "requiredField": "Bitte wählen Sie für jede der folgenden Fragen jeweils eine Option aus",
   "sexChoices": ["Männlich", "Weiblich"],
   "orientation": "Sexuelle Orientierung",
   "orientationChoices": ["Heterosexuell", "Homosexuell", "Bisexuell - lieber gleichgeschlechtliche erotische Bilder", "Bisexuell - lieber gegengeschlechtliche erotische Bilder", "Ich möchte nicht antworten - Experiment abbrechen"],
