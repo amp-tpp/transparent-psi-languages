@@ -1,6 +1,6 @@
   {
-  "introHead": "Willkommen beim Transparent Psi Projekt!",
-  "introBody": "Klicken Sie auf den Knopf unten, um zur Einwilligungserklärung zu gelangen.",
+  "introHead": "Willkommen zum 'Transparenten Psi-Projekt'!",
+  "introBody": "Bitte klicken Sie auf die Schaltfläche unten, um zur Einwilligungserklärung zu gelangen.",
   "introText": "Dies ist die Datenerfassungssoftware für das Transparent Psi Projekt. Bitte füllen Sie die vorliegenden Felder aus, bevor Sie zum Teilnehmer*innen-Bildschirm weitergehen.",
   "warnTest": "Die Anwendung läuft im Testmodus und die Daten werden als Testdaten gespeichert!",
   "warnPilot": "Die Anwendung läuft im Pilotmodus und die Daten werden als Pilotdaten gespeichert!",
