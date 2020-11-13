@@ -79,7 +79,7 @@
   "consent_form_content_4": "Sind Sie über die Einzelheiten Ihrer Teilnahme ausreichend informiert worden und akzeptieren Sie die Bedingungen?",
   "agreeParticipateButton": "Ja, ich bin über die Einzelheiten meiner Teilnahme ausreichend informiert worden und stimme der Teilnahme zu", 
   "refuseParticipateButton": "Nein, ich lehne die Teilnahme ab",
-  "refuse": "Danke, dass Sie die Teilnahme an unserer Studie in Betracht gezogen haben. Einen schönen Tag noch!",
+  "refuse": "Danke, dass Sie die Teilnahme an unserer Studie in Betracht gezogen haben. Einen schönen Tag noch! Zum Schließen klicken Sie bitte <br> <a href='https://survey.maximiles.com/static-screenout?p=58824'>HIER</a>",
   "quit": "Beenden",
   "systematicControl": "Systematic Control: ",
   "true" : "True: ",
@@ -88,5 +88,5 @@
   "onilineEnd": "Bei Fragen oder Bedenken wenden Sie sich bitte an: psiversuch@igpp.de",
   "onlineOpening": "Welcome to the Transparent Psi Project! You have initiated Online mode. Please, copy the link below and send it to the participants so that they can complete the experiment. When they open the link it will bring them to the Participant’s Opening Screen. <br> Online experiment link:",
   "rewardOnlineInfo": "Study identification code:",
-  "rewardOnlineLink": "Um Ihre vollständige Teilnahme an Bilendi zu melden, klicken sie bitte folgenden Link: <br> <a href='https://www.google.com'>link to google</a>"
+  "rewardOnlineLink": "Um Ihre Teilnahme abzuschließen und die Vergütung zu erhalten, klicken Sie bitte <br> <a href='https://survey.maximiles.com/static-complete?p=58824_269bcaed'>HIER</a>"
 }
